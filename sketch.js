@@ -114,7 +114,7 @@ function draw() {
 
 
 function mouseReleased(){
-    slingshot.fly();
+    sling.fly();
 }
 function keyPressed(){
   if(keyCode===32){
